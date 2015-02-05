@@ -21,4 +21,4 @@ Windows 7인 경우 .Net Framework 4.0설치 필요, Windows 8 이후 OS인 경�
 ## 다운로드
 가능하면 본인이 직접 빌드해서 사용하십시오.
 
-빌드가 귀찮으시면 [다운로드](./deploy/deploy.zip) 하여 사용하십시오.
+빌드가 귀찮으시면 [다운로드](./deploy/deploy.zip?raw=true) 하여 사용하십시오.
